@@ -1,0 +1,16 @@
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore data and large model folders
+data/
+uploads/
+fraud_model_final/
+*.db
+*.csv
+*.pkl
