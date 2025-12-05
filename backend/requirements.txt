@@ -4,3 +4,7 @@ pandas
 numpy
 scikit-learn
 joblib
+python-dotenv
+pillow
+PyJWT
+google-generativeai
